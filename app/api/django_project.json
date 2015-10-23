@@ -1,0 +1,29 @@
+[{
+  "name": "projeto-pratico",
+  "icon": "assets/img/modules/project.png",
+  "about": "Sobre",
+  "type": "silver",
+  "disqus": {
+    "shortname": "dj360projetopratico",
+    "id": "/modules/projetopratico",
+    "title": "Comentários",
+    "url": "http://localhost:9098/#/django/2modules/projetopratico"
+  },
+  "chapters": [{
+    "name": "Criando o projeto prático",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    }
+  }],
+  "label": "Projeto prático",
+  "slug": "projeto-pratico"
+}]

@@ -1,0 +1,51 @@
+[
+    {
+        "category": "backend",
+        "name": "django",
+        "label": "Django",
+        "about": "abstract Django framework",
+        "imagePath": "assets/img/tutorials/django.png"
+    }, {
+        "category": "backend",
+        "name": "nodejs",
+        "label": "NodeJs",
+        "about": "abstract NodeJs framework",
+        "imagePath": "assets/img/tutorials/nodejs.jpg"
+    }, {
+        "category": "frontend",
+        "name": "angular1",
+        "label": "Angular 1.X",
+        "about": "abstract Angular 1.X framework",
+        "imagePath": "assets/img/tutorials/angular1.png"
+    }, {
+        "category": "frontend",
+        "name": "html5",
+        "label": "HTML5",
+        "about": "abstract HTML 5 framework",
+        "imagePath": "assets/img/tutorials/html5.png"
+    }, {
+        "category": "database",
+        "name": "mongodb",
+        "label": "MongoDB",
+        "about": "abstract MongoDB framework",
+        "imagePath": "assets/img/tutorials/mongodb.jpg"
+    }, {
+        "category": "game",
+        "name": "unity5",
+        "label": "Unity 5",
+        "about": "abstract Unity 5 framework",
+        "imagePath": "assets/img/tutorials/unity5.png"
+    }, {
+        "category": "mobile",
+        "name": "cordova_phonegap",
+        "label": "Cordova/Phonegap",
+        "about": "abstract Cordova/Phonegap framework",
+        "imagePath": "assets/img/tutorials/cordova_256.png"
+    }, {
+        "category": "academic",
+        "name": "uml",
+        "label": "UML",
+        "about": "abstract UML diagrams",
+        "imagePath": "assets/img/tutorials/uml.png"
+    }
+]

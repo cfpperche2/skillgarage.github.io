@@ -1,0 +1,2417 @@
+[
+    {
+        "name": "introducao",
+        "icon": "assets/img/modules/introduction.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360introducao",
+            "id": "/modules/introduction",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/introduction"
+        },
+        "chapters": [
+            {
+                "name": "Olá mundo",
+                "tip": "abstract ...",
+                "video": {
+                    "url": "sMKoNBRZM1M",
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": "http://docs.google.com/presentation/d/1ODJEYDZK9nj7OmAJzEkljF-_rBvYSd6lCZODbBKtmvc/embed?start=true&loop=false&delayms=60000"
+                },
+                "git": {
+                    "url": "https://github.com/ebugfix/django360",
+                    "gist": "47c4f983bf84a6cf0f22"
+                }
+            }, {
+                "name": "Fundamentos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "MTV",
+                "type": "silver",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Introdução",
+        "slug": "introducao"
+    }, {
+        "name": "ambiente-de-desenvolvimento",
+        "icon": "assets/img/modules/environment.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360ambientededesenvolvimento",
+            "id": "/modules/ambientededesenvolvimento",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/ambientededesenvolvimento"
+        },
+        "chapters": [
+            {
+                "name": "Ambientes virtuais",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Gerenciamento de dependências",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Sistema de controle de versões",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Banco de Dados",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Ambiente de desenvolvimento",
+        "slug": "ambiente-de-desenvolvimento"
+    }, {
+        "name": "organizacao-do-projeto",
+        "icon": "assets/img/modules/organization.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360organizacaodoprojeto",
+            "id": "/modules/organizacaodoprojeto",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/organizacaodoprojeto"
+        },
+        "chapters": [
+            {
+                "name": "Instalação Django",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "O que é o projeto",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "O que são aplicações",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Arquivo de cofiguração",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Controlando dependências",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Organização do projeto",
+        "slug": "organizacao-do-projeto"
+    }, {
+        "name": "base-de-dados",
+        "icon": "assets/img/modules/database.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360basededados",
+            "id": "/modules/basededados",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/basededados"
+        },
+        "chapters": [
+            {
+                "name": "SQLite",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "MySQL",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "PostgreSQL",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Base de dados",
+        "slug": "base-de-dados"
+    }, {
+        "name": "models",
+        "icon": "assets/img/modules/models.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360models",
+            "id": "/modules/models",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/models"
+        },
+        "chapters": [
+            {
+                "name": "Sintaxe",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Campos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Heranças",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Heranças genéricas",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Consultas",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Managers",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Raw SQL",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Aggregations",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Múltiplas bases de dados",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Models",
+        "slug": "models"
+    }, {
+        "name": "migrations",
+        "icon": "assets/img/modules/migrations.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360migrations",
+            "id": "/modules/migrations",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/migrations"
+        },
+        "chapters": [
+            {
+                "name": "Diferenças entre Django 1.6 e 1.7+",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Migrações",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Operações",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Migrations",
+        "slug": "migrations"
+    }, {
+        "name": "views",
+        "icon": "assets/img/modules/views.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360views",
+            "id": "/modules/views",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/views"
+        },
+        "chapters": [
+            {
+                "name": "URLconfs",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Vistas baseadas em funções",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Shortcuts",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Decorators",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Vistas de erros",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Views",
+        "slug": "views"
+    }, {
+        "name": "class-base-views",
+        "icon": "assets/img/modules/cbv.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360classbaseviews",
+            "id": "/modules/classbaseviews",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/classbaseviews"
+        },
+        "chapters": [
+            {
+                "name": "Vistas baseadas em classes",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Base Views: View",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Base Views: TemplateView",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Base Views: RedirectView",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Display Views: DetailView",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Display Views: ListView ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Editing Views: FormView ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Editing Views: CreateView ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Editing Views: UpdateView ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Generic Editing Views: DeleteView ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Boas práticas ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Mixins",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Context Processors",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Middlewares",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Class Base Views",
+        "slug": "class-base-views"
+    }, {
+        "name": "templates",
+        "icon": "assets/img/modules/templates.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360templates",
+            "id": "/modules/templates",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/templates"
+        },
+        "chapters": [
+            {
+                "name": "Sintaxe",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Template tags & filters",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Herança de templates",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Custom template filters",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Inclusion tags",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Block Super",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Templates",
+        "slug": "templates"
+    }, {
+        "name": "statics-media",
+        "icon": "assets/img/modules/statics.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360staticsmedia",
+            "id": "/modules/staticsmedia",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/staticsmedia"
+        },
+        "chapters": [
+            {
+                "name": "Arquivos estáticos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Arquivos de mídia",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Statics & Media",
+        "slug": "statics-media"
+    }, {
+        "name": "forms",
+        "icon": "assets/img/modules/forms.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360forms",
+            "id": "/modules/forms",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/forms"
+        },
+        "chapters": [
+            {
+                "name": "Formulários basicos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Campos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Template Forms",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Validations",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Widgets",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Model Forms",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Custom Validations",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Formset",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Forms",
+        "slug": "forms"
+    }, {
+        "name": "signals",
+        "icon": "assets/img/modules/signals.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360signals",
+            "id": "/modules/signals",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/signals"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "pre_save & post_save",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Custom signals",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Receivers",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Signals",
+        "slug": "signals"
+    }, {
+        "name": "ajax",
+        "icon": "assets/img/modules/ajax.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360ajax",
+            "id": "/modules/ajax",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/ajax"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Ajax GET",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Ajax POST",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Custom Method",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Ajax",
+        "slug": "ajax"
+    }, {
+        "name": "contrib-admin",
+        "icon": "assets/img/modules/admin.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360contribadmin",
+            "id": "/modules/contribadmin",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/contribadmin"
+        },
+        "chapters": [
+            {
+                "name": "Admin",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "ModelAdmin",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "List display",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Relacionamentos",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Pesquisas, filtros e listas editáveis",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Admin actions",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Contrib Admin",
+        "slug": "contrib-admin"
+    }, {
+        "name": "contrib-auth",
+        "icon": "assets/img/modules/auth.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360contribauth",
+            "id": "/modules/contribauth",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/contribauth"
+        },
+        "chapters": [
+            {
+                "name": "User Model",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Custom User Model",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Autenticação",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Autorização",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Registro",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Contrib Auth",
+        "slug": "contrib-auth"
+    }, {
+        "name": "emails",
+        "icon": "assets/img/modules/emails.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360emails",
+            "id": "/modules/emails",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/emails"
+        },
+        "chapters": [
+            {
+                "name": "Mandrill",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Amazon SES",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Emails",
+        "slug": "emails"
+    }, {
+        "name": "testes-automatizados",
+        "icon": "assets/img/modules/tests.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360testesautomatizados",
+            "id": "/modules/testesautomatizados",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/testesautomatizados"
+        },
+        "chapters": [
+            {
+                "name": "Test Driven Development",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Testing Models",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Testing Views",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Testing Forms",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Testes automatizados",
+        "slug": "testes-automatizados"
+    }, {
+        "name": "caching",
+        "icon": "assets/img/modules/cache.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360caching",
+            "id": "/modules/caching",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/caching"
+        },
+        "chapters": [
+            {
+                "name": "Caching",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Django Debug Toolbar",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Memcached",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Redis",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Caching",
+        "slug": "caching"
+    }, {
+        "name": "deployment",
+        "icon": "assets/img/modules/deployment.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360deployment",
+            "id": "/modules/deployment",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/deployment"
+        },
+        "chapters": [
+            {
+                "name": "Heroku",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Amazon EC2",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Gitosis",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Nginx",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Amazon S3",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Deployment",
+        "slug": "deployment"
+    }, {
+        "name": "criando-apis",
+        "icon": "assets/img/modules/apis.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360criandoapis",
+            "id": "/modules/criandoapis",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/criandoapis"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Django REST Framework",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "DRF: Serializers",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "DRF: Serializers entre modelos relacionados",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "DRF: Generic Field",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "DRF: Viewsets",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Criando APIs",
+        "slug": "criando-apis"
+    }, {
+        "name": "auth-por-redes-sociais",
+        "oldname": "Python Social Auth",
+        "icon": "assets/img/modules/social.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360pythonsocialauth",
+            "id": "/modules/pythonsocialauth",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/pythonsocialauth"
+        },
+        "chapters": [
+            {
+                "name": "Python Social Auth",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Instalação e configuração",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Facebook",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Twitter",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Google",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Pipelines",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Partial Pipeline",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Auth por redes sociais",
+        "slug": "auth-por-redes-sociais"
+    }, {
+        "name": "pagamentos",
+        "icon": "assets/img/modules/payment.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360pagamentos",
+            "id": "/modules/pagamentos",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/pagamentos"
+        },
+        "chapters": [
+            {
+                "name": "Paypal",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Stripe",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Pagseguro",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Pagamentos",
+        "slug": "pagamentos"
+    }, {
+        "name": "celery",
+        "icon": "assets/img/modules/celery.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360celery",
+            "id": "/modules/celery",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/celery"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Celery & RabbitMQ",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Celery & Supervisor",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Celery Beat",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Celery",
+        "slug": "celery"
+    }, {
+        "name": "seguranca",
+        "icon": "assets/img/modules/security.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360seguranca",
+            "id": "/modules/seguranca",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/seguranca"
+        },
+        "chapters": [
+            {
+                "name": "Segurança em Django",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Boas práticas",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Variáveis secretas",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "HTTPS",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Segurança",
+        "slug": "seguranca"
+    }, {
+        "name": "otimizacao",
+        "icon": "assets/img/modules/optimization.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360otimizacao",
+            "id": "/modules/otimizacao",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/otimizacao"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Otimização da base de dados",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Otimização",
+        "slug": "otimizacao"
+    }, {
+        "name": "relatorios",
+        "icon": "assets/img/modules/reports.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360relatorios",
+            "id": "/modules/relatorios",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/relatorios"
+        },
+        "chapters": [
+            {
+                "name": "Relatórios em PDF",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Relatórios em CSV",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Relatórios",
+        "slug": "relatorios"
+    }, {
+        "name": "integrando-com-tornado",
+        "icon": "assets/img/modules/tornado.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360tornado",
+            "id": "/modules/tornado",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/tornado"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Integrando com Tornado",
+        "slug": "integrando-com-tornado"
+    }, {
+        "name": "integrando-com-nodejs",
+        "icon": "assets/img/modules/nodejs.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360nodejs",
+            "id": "/modules/nodejs",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/nodejs"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Integrando com NodeJs",
+        "slug": "integrando-com-nodejs"
+    }, {
+        "name": "integrando-com-angularjs",
+        "icon": "assets/img/modules/angularjs.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360angularjs",
+            "id": "/modules/angularjs",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/angularjs"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Integrando com AngularJs",
+        "slug": "integrando-com-angularjs"
+    }, {
+        "name": "django-17-para-18",
+        "icon": "assets/img/modules/upgrade_dj.png",
+        "about": "Sobre",
+        "type": "silver",
+        "disqus": {
+            "shortname": "dj360django17para18",
+            "id": "/modules/django17para18",
+            "title": "Comentários",
+            "url": "http://localhost:9098/#/django/2modules/django17para18"
+        },
+        "chapters": [
+            {
+                "name": "Introdução",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Motores de Template",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "URLs",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "PostgreSQL",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "PostgreSQL: ArrayField",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "PostgreSQL: HStoreField",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "PostgreSQL: Range Fields",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Novos Data Types",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Model._meta API",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "ORM API",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }, {
+                "name": "Aplicação",
+                "tip": "abstract ...",
+                "video": {
+                    "url": null,
+                    "time": "0:00"
+                },
+                "pdf": {
+                    "url": null
+                },
+                "git": {
+                    "url": null,
+                    "gist": null
+                }
+            }
+        ],
+        "label": "Django 1.7 para 1.8",
+        "slug": "django-17-para-18"
+    }
+]

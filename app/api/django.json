@@ -1,0 +1,21 @@
+{
+  "title": "O que aprendi sobre Django, um framework escrito em Python",
+  "tabs": [{
+    "name": "tutorial",
+    "label": "Tutorial"
+  }, {
+    "name": "project",
+    "label": "Projeto Prático"
+  }, {
+    "name": "hangouts",
+    "label": "Hangouts"
+  }, {
+    "name": "resources",
+    "label": "Resources"
+  }],
+  "chaptersUrl": "app/api/django_chapters.json",
+  "projectUrl": "app/api/django_project.json",
+  "hangoutsUrl": "app/api/django_hangouts.json",
+  "resourcesUrl": "app/api/django_resources.json",
+  "technologiesUrl": "app/api/django_technologies.json"
+}

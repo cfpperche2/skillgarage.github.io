@@ -1,0 +1,21 @@
+{
+  "title": "Angular single page application",
+  "tabs": [{
+    "name": "tutorial",
+    "label": "Tutorial"
+  }, {
+    "name": "project",
+    "label": "Projeto Prático"
+  }, {
+    "name": "hangouts",
+    "label": "Hangouts"
+  }, {
+    "name": "resources",
+    "label": "Resources"
+  }],
+  "chaptersUrl": "app/api/angular1_chapters.json",
+  "projectUrl": "app/api/angular1_project.json",
+  "hangoutsUrl": "app/api/angular1_hangouts.json",
+  "resourcesUrl": "app/api/angular1_resources.json",
+  "technologiesUrl": "app/api/angular1_technologies.json"
+}

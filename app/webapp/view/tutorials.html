@@ -1,0 +1,5 @@
+<div display="flex" justify-content="center" grow="1"> <div display="flex" direction="row" justify-content="center" align-items="center" align-content="center" wrap="wrap"> <md-card ng-repeat="tut in tutorials" display="flex" direction="column" align-items="center" align-content="center" ng-click="goToTutorial(tut.name, null)" class="card-tutorials" style="width:256px; max-width: 256px; min-width: 256px"> <h2 class="md-title"> <img ng-src="{{tut.imagePath}}" class="md-card-image" alt="{{tut.label}}"> </h2> <md-card-content> <md-button class="md-primary md-raised" ng-click="goToTutorial(tut.name, null)"> {{tut.label}} <!-- <md-tooltip md-autohide>
+            {{tut.about}}
+          </md-tooltip> --> </md-button> <!-- <p layout="row" layout-wrap>
+			{{tut.about}}
+			</p> --> </md-card-content> </md-card> </div> </div>
