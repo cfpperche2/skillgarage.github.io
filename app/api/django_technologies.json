@@ -13,66 +13,66 @@
         "name": "django",
         "icon": "assets/img/logo-django-logo-negative.svg",
         "about": "about",
-        "link": ""
+        "link": "https://www.djangoproject.com/"
     }, {
         "name": "git",
-        "icon": "assets/img/logo-Git-logo.svg.png",
+        "icon": "assets/img/logo-Git-logo.png",
         "about": "about",
-        "link": ""
+        "link": "https://git-scm.com/"
     }, {
         "name": "github",
         "icon": "assets/img/logo-blog-github.png",
         "about": "about",
-        "link": ""
+        "link": "https://github.com/"
     }, {
         "name": "postgresql",
         "icon": "assets/img/logo-postgresql-logo1.png",
         "about": "about",
-        "link": ""
+        "link": "http://www.postgresql.org/"
     }, {
         "name": "nginx",
         "icon": "assets/img/logo-Nginx.svg",
         "about": "about",
-        "link": ""
+        "link": "https://www.nginx.com/"
     }, {
         "name": "heroku",
         "icon": "assets/img/logo-heroku.svg",
         "about": "about",
-        "link": ""
+        "link": "https://www.heroku.com/"
     }, {
         "name": "amazon",
-        "icon": "assets/img/logo-AmazonWebservices_Logo.svg.png",
+        "icon": "assets/img/logo-AmazonWebservices_Logo.png",
         "about": "about",
-        "link": ""
+        "link": "https://aws.amazon.com/pt/"
     }, {
         "name": "redis",
-        "icon": "assets/img/logo-Redis_Logo.svg.png",
+        "icon": "assets/img/logo-Redis_Logo.png",
         "about": "about",
-        "link": ""
+        "link": "http://redis.io/"
     }, {
         "name": "django-rest-framework",
         "icon": "assets/img/logo-drf-logo.png",
         "about": "about",
-        "link": ""
+        "link": "http://www.django-rest-framework.org/"
     }, {
         "name": "angularjs",
-        "icon": "assets/img/logo-AngularJS_logo.svg.png",
+        "icon": "assets/img/logo-AngularJS_logo.png",
         "about": "about",
-        "link": ""
+        "link": "https://angularjs.org/"
     }, {
         "name": "nodejs",
-        "icon": "assets/img/logo-591px-Node.js_Logo.svg.png",
+        "icon": "assets/img/logo-591px-Node.js_Logo.png",
         "about": "about",
-        "link": ""
+        "link": "https://nodejs.org/en/"
     }, {
         "name": "tornado",
         "icon": "assets/img/logo-tornado.png",
         "about": "about",
-        "link": ""
+        "link": "http://www.tornadoweb.org/en/stable/"
     }, {
         "name": "celery",
         "icon": "assets/img/logo-celery.png",
         "about": "about",
-        "link": ""
+        "link": "http://www.celeryproject.org/"
     }
 ]

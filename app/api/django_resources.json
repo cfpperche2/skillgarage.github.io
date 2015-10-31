@@ -1,1 +1,3 @@
-[]
+{
+  "technologiesUrl": "app/api/django_technologies.json"
+}

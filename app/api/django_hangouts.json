@@ -1,1 +1,15 @@
-[]
+[{
+  "name": "ola_mundo",
+  "label": "Olá mundo",
+  "video": {
+    "url": "sMKoNBRZM1M",
+    "time": "0:00"
+  }
+}, {
+  "name": "google_demo",
+  "label": "Demo google",
+  "video": {
+    "url": "M7lc1UVf-VE",
+    "time": "0:00"
+  }
+}]
