@@ -13,9 +13,9 @@
     "name": "resources",
     "label": "Resources"
   }],
-  "chaptersUrl": "app/api/angular1_chapters.json",
-  "projectUrl": "app/api/angular1_project.json",
-  "hangoutsUrl": "app/api/angular1_hangouts.json",
-  "resourcesUrl": "app/api/angular1_resources.json",
-  "technologiesUrl": "app/api/angular1_technologies.json"
+  "chaptersUrl": "assets/api/angular1_chapters.json",
+  "projectUrl": "assets/api/angular1_project.json",
+  "hangoutsUrl": "assets/api/angular1_hangouts.json",
+  "resourcesUrl": "assets/api/angular1_resources.json",
+  "technologiesUrl": "assets/api/angular1_technologies.json"
 }

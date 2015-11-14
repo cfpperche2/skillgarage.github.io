@@ -1,0 +1,84 @@
+[{
+  "name": "learning-app",
+  "icon": "assets/img/modules/project.png",
+  "about": "Sobre",
+  "type": "silver",
+  "disqus": {
+    "shortname": "dj360projetopratico",
+    "id": "/modules/projetopratico",
+    "title": "Comentários",
+    "url": "http://localhost:9098/#/django/2modules/projetopratico"
+  },
+  "chapters": [
+    {
+    "name": "Introdução",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    },
+    "slug": "app-learning.introducao",
+    "key": "django.introducao.fundamentos"
+    },
+    {
+    "name": "Preparando o ambiente",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    },
+    "slug": "app-learning.preparando-ambiente",
+    "key": "django.introducao.fundamentos"
+    }, 
+    {
+    "name": "Criando nosso projeto",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    },
+    "slug": "app-learning.criando-projeto",
+    "key": "django.introducao.fundamentos"
+    }, 
+    {
+    "name": "Configurando a base de dados",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    },
+    "slug": "app-learning.base-de-dados",
+    "key": "django.introducao.fundamentos"
+    }
+  ],
+  "label": "Learning App",
+  "slug": "learning-app"
+}]

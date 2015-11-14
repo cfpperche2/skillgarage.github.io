@@ -13,9 +13,9 @@
     "name": "resources",
     "label": "Resources"
   }],
-  "chaptersUrl": "app/api/django_chapters.json",
-  "projectUrl": "app/api/django_project.json",
-  "hangoutsUrl": "app/api/django_hangouts.json",
-  "resourcesUrl": "app/api/django_resources.json",
-  "technologiesUrl": "app/api/django_technologies.json"
+  "chaptersUrl": "assets/api/django_chapters.json",
+  "projectUrl": "assets/api/django_project.json",
+  "hangoutsUrl": "assets/api/django_hangouts.json",
+  "resourcesUrl": "assets/api/django_resources.json",
+  "technologiesUrl": "assets/api/django_technologies.json"
 }

@@ -26,22 +26,6 @@
     "slug": "introducao.ola-mundo",
     "key": "django.introducao.ola-mundo"
   }, {
-    "name": "Fundamentos",
-    "tip": "abstract ...",
-    "video": {
-      "url": null,
-      "time": "0:00"
-    },
-    "pdf": {
-      "url": null
-    },
-    "git": {
-      "url": null,
-      "gist": null
-    },
-    "slug": "introducao.fundamentos",
-    "key": "django.introducao.fundamentos"
-  }, {
     "name": "MTV",
     "type": "silver",
     "tip": "abstract ...",
