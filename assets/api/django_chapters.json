@@ -1,7 +1,7 @@
 [{
   "name": "introducao",
   "icon": "assets/img/modules/introduction.png",
-  "about": "Sobre",
+  "about": "Introdução ao framework Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360introducao",
@@ -13,15 +13,15 @@
     "name": "Olá mundo",
     "tip": "abstract ...",
     "video": {
-      "url": "sMKoNBRZM1M",
+      "url": "FQI5KbAmlkQ",
       "time": "0:00"
     },
     "pdf": {
-      "url": "http://docs.google.com/presentation/d/1ODJEYDZK9nj7OmAJzEkljF-_rBvYSd6lCZODbBKtmvc/embed?start=true&loop=false&delayms=60000"
+      "url": "https://docs.google.com/presentation/d/1FdCaWv3QYYCjxlR1J535iyyAxkJdYujZvsb1iuIvzAo/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": "https://github.com/ebugfix/django360",
-      "gist": "47c4f983bf84a6cf0f22"
+      "gist": null
     },
     "slug": "introducao.ola-mundo",
     "key": "django.introducao.ola-mundo"
@@ -30,11 +30,11 @@
     "type": "silver",
     "tip": "abstract ...",
     "video": {
-      "url": null,
+      "url": "2TxnIGTzoZo",
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/193zLHVXR2pDcCH7XflSrsyHN4aG-xR0gZZs2QqnD_hA/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -50,7 +50,7 @@
 }, {
   "name": "ambiente-de-desenvolvimento",
   "icon": "assets/img/modules/environment.png",
-  "about": "Sobre",
+  "about": "Apresentação das ferramentas utilizadas",
   "type": "silver",
   "disqus": {
     "shortname": "dj360ambientededesenvolvimento",
@@ -62,11 +62,11 @@
     "name": "Ambientes virtuais",
     "tip": "abstract ...",
     "video": {
-      "url": null,
+      "url": "DLcf_3L0B0k",
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/1Vail1DhpFRU3d9PQTpXPvfZ_ovVRqPoz1lLsap_reFE/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -78,11 +78,11 @@
     "name": "Gerenciamento de dependências",
     "tip": "abstract ...",
     "video": {
-      "url": null,
+      "url": "-yPNfnGCoSU",
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/1u5LayccRTte5yYkRxNXDmkTSADmWuu3LMX3ck3r-VSE/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -94,11 +94,11 @@
     "name": "Sistema de controle de versões",
     "tip": "abstract ...",
     "video": {
-      "url": null,
+      "url": "pEvK8Odh0EU",
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/1kiAgLI4BV8bpqOZxPRrMTA032YvOxtH0IQQMFykTHg4/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -106,22 +106,6 @@
     },
     "slug": "ambiente-de-desenvolvimento.sistema-de-controle-de-versoes",
     "key": "django.ambiente-de-desenvolvimento.sistema-de-controle-de-versoes"
-  }, {
-    "name": "Banco de Dados",
-    "tip": "abstract ...",
-    "video": {
-      "url": null,
-      "time": "0:00"
-    },
-    "pdf": {
-      "url": null
-    },
-    "git": {
-      "url": null,
-      "gist": null
-    },
-    "slug": "ambiente-de-desenvolvimento.banco-de-dados",
-    "key": "django.ambiente-de-desenvolvimento.banco-de-dados"
   }],
   "label": "Ambiente de desenvolvimento",
   "slug": "ambiente-de-desenvolvimento",
@@ -130,7 +114,7 @@
 }, {
   "name": "organizacao-do-projeto",
   "icon": "assets/img/modules/organization.png",
-  "about": "Sobre",
+  "about": "Boas práticas para nossos projetos em Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360organizacaodoprojeto",
@@ -146,7 +130,7 @@
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/1dLOCLkWg0Wy2opIqxa8DAFH-_0_BEkHNYVWlZYumYZE/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -162,7 +146,7 @@
       "time": "0:00"
     },
     "pdf": {
-      "url": null
+      "url": "https://docs.google.com/presentation/d/1VI680DPQg5mtzd0ZwJtaMYvj2S-vggD7ZPNQ0ePGS7g/embed?start=false&loop=false&delayms=60000"
     },
     "git": {
       "url": null,
@@ -226,7 +210,7 @@
 }, {
   "name": "base-de-dados",
   "icon": "assets/img/modules/database.png",
-  "about": "Sobre",
+  "about": "Apresentação das bases de dados utilizadas em Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360basededados",
@@ -235,6 +219,22 @@
     "url": "http://localhost:9098/#/django/2modules/basededados"
   },
   "chapters": [{
+    "name": "Banco de Dados",
+    "tip": "abstract ...",
+    "video": {
+      "url": null,
+      "time": "0:00"
+    },
+    "pdf": {
+      "url": null
+    },
+    "git": {
+      "url": null,
+      "gist": null
+    },
+    "slug": "base-de-dados.banco-de-dados",
+    "key": "django.base-de-dados.banco-de-dados"
+  }, {
     "name": "SQLite",
     "tip": "abstract ...",
     "video": {
@@ -290,7 +290,7 @@
 }, {
   "name": "models",
   "icon": "assets/img/modules/models.png",
-  "about": "Sobre",
+  "about": "Models de nossas aplicações",
   "type": "silver",
   "disqus": {
     "shortname": "dj360models",
@@ -450,7 +450,7 @@
 }, {
   "name": "migrations",
   "icon": "assets/img/modules/migrations.png",
-  "about": "Sobre",
+  "about": "Controlando a evolução de nossas bases de dados",
   "type": "silver",
   "disqus": {
     "shortname": "dj360migrations",
@@ -514,7 +514,7 @@
 }, {
   "name": "views",
   "icon": "assets/img/modules/views.png",
-  "about": "Sobre",
+  "about": "Views de nossas aplicações",
   "type": "silver",
   "disqus": {
     "shortname": "dj360views",
@@ -610,7 +610,7 @@
 }, {
   "name": "class-base-views",
   "icon": "assets/img/modules/cbv.png",
-  "about": "Sobre",
+  "about": "Views baseadas em classes",
   "type": "silver",
   "disqus": {
     "shortname": "dj360classbaseviews",
@@ -850,7 +850,7 @@
 }, {
   "name": "templates",
   "icon": "assets/img/modules/templates.png",
-  "about": "Sobre",
+  "about": "Templates de nossas aplicações",
   "type": "silver",
   "disqus": {
     "shortname": "dj360templates",
@@ -962,7 +962,7 @@
 }, {
   "name": "statics-media",
   "icon": "assets/img/modules/statics.png",
-  "about": "Sobre",
+  "about": "Trabalhando com arquivos estáticos",
   "type": "silver",
   "disqus": {
     "shortname": "dj360staticsmedia",
@@ -1010,7 +1010,7 @@
 }, {
   "name": "forms",
   "icon": "assets/img/modules/forms.png",
-  "about": "Sobre",
+  "about": "Formularios de edição",
   "type": "silver",
   "disqus": {
     "shortname": "dj360forms",
@@ -1154,7 +1154,7 @@
 }, {
   "name": "signals",
   "icon": "assets/img/modules/signals.png",
-  "about": "Sobre",
+  "about": "django signals",
   "type": "silver",
   "disqus": {
     "shortname": "dj360signals",
@@ -1234,7 +1234,7 @@
 }, {
   "name": "ajax",
   "icon": "assets/img/modules/ajax.png",
-  "about": "Sobre",
+  "about": "Requisições Ajax",
   "type": "silver",
   "disqus": {
     "shortname": "dj360ajax",
@@ -1314,7 +1314,7 @@
 }, {
   "name": "contrib-admin",
   "icon": "assets/img/modules/admin.png",
-  "about": "Sobre",
+  "about": "Aplicação Django Admin",
   "type": "silver",
   "disqus": {
     "shortname": "dj360contribadmin",
@@ -1426,7 +1426,7 @@
 }, {
   "name": "contrib-auth",
   "icon": "assets/img/modules/auth.png",
-  "about": "Sobre",
+  "about": "Django e o sistema de Autenticação",
   "type": "silver",
   "disqus": {
     "shortname": "dj360contribauth",
@@ -1522,7 +1522,7 @@
 }, {
   "name": "emails",
   "icon": "assets/img/modules/emails.png",
-  "about": "Sobre",
+  "about": "Django e o sistema de envio de emails",
   "type": "silver",
   "disqus": {
     "shortname": "dj360emails",
@@ -1570,7 +1570,7 @@
 }, {
   "name": "testes-automatizados",
   "icon": "assets/img/modules/tests.png",
-  "about": "Sobre",
+  "about": "Criando testes unitários",
   "type": "silver",
   "disqus": {
     "shortname": "dj360testesautomatizados",
@@ -1650,7 +1650,7 @@
 }, {
   "name": "caching",
   "icon": "assets/img/modules/cache.png",
-  "about": "Sobre",
+  "about": "Sistema de caching",
   "type": "silver",
   "disqus": {
     "shortname": "dj360caching",
@@ -1730,7 +1730,7 @@
 }, {
   "name": "deployment",
   "icon": "assets/img/modules/deployment.png",
-  "about": "Sobre",
+  "about": "Fazendo o deploy de nossa aplicação",
   "type": "silver",
   "disqus": {
     "shortname": "dj360deployment",
@@ -1826,7 +1826,7 @@
 }, {
   "name": "criando-apis",
   "icon": "assets/img/modules/apis.png",
-  "about": "Sobre",
+  "about": "Criando APIs para nossas aplicações",
   "type": "silver",
   "disqus": {
     "shortname": "dj360criandoapis",
@@ -1939,7 +1939,7 @@
   "name": "auth-por-redes-sociais",
   "oldname": "Python Social Auth",
   "icon": "assets/img/modules/social.png",
-  "about": "Sobre",
+  "about": "Integrando nossa aplicação com redes sociais",
   "type": "silver",
   "disqus": {
     "shortname": "dj360pythonsocialauth",
@@ -2067,7 +2067,7 @@
 }, {
   "name": "pagamentos",
   "icon": "assets/img/modules/payment.png",
-  "about": "Sobre",
+  "about": "Integrando nossa aplicação com sistemas de pagamentos",
   "type": "silver",
   "disqus": {
     "shortname": "dj360pagamentos",
@@ -2131,7 +2131,7 @@
 }, {
   "name": "celery",
   "icon": "assets/img/modules/celery.png",
-  "about": "Sobre",
+  "about": "Criando tarefas de sistema com Celery",
   "type": "silver",
   "disqus": {
     "shortname": "dj360celery",
@@ -2211,7 +2211,7 @@
 }, {
   "name": "seguranca",
   "icon": "assets/img/modules/security.png",
-  "about": "Sobre",
+  "about": "Django e o sistema de segurança",
   "type": "silver",
   "disqus": {
     "shortname": "dj360seguranca",
@@ -2291,7 +2291,7 @@
 }, {
   "name": "otimizacao",
   "icon": "assets/img/modules/optimization.png",
-  "about": "Sobre",
+  "about": "Otimizando nosso projeto em Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360otimizacao",
@@ -2339,7 +2339,7 @@
 }, {
   "name": "relatorios",
   "icon": "assets/img/modules/reports.png",
-  "about": "Sobre",
+  "about": "Criando relatórios em PDF com Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360relatorios",
@@ -2387,7 +2387,7 @@
 }, {
   "name": "integrando-com-tornado",
   "icon": "assets/img/modules/tornado.png",
-  "about": "Sobre",
+  "about": "Integrando nosso projeto com o framework Tornado",
   "type": "silver",
   "disqus": {
     "shortname": "dj360tornado",
@@ -2419,7 +2419,7 @@
 }, {
   "name": "integrando-com-nodejs",
   "icon": "assets/img/modules/nodejs.png",
-  "about": "Sobre",
+  "about": "Integrando Django com NodeJs",
   "type": "silver",
   "disqus": {
     "shortname": "dj360nodejs",
@@ -2451,7 +2451,7 @@
 }, {
   "name": "integrando-com-angularjs",
   "icon": "assets/img/modules/angularjs.png",
-  "about": "Sobre",
+  "about": "Criando single page applications com Angular e Django",
   "type": "silver",
   "disqus": {
     "shortname": "dj360angularjs",
@@ -2483,7 +2483,7 @@
 }, {
   "name": "django-17-para-18",
   "icon": "assets/img/modules/upgrade_dj.png",
-  "about": "Sobre",
+  "about": "Migrando de Django 1.7 para Django 1.8",
   "type": "silver",
   "disqus": {
     "shortname": "dj360django17para18",
